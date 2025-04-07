@@ -5,7 +5,7 @@ import pic1 from "../../assets/images/pic1.png";
 import zalmi from "../../assets/images/zalmi.jpeg";
 import islamabad from "../../assets/images/islamabad.jpeg";
 import lahore from "../../assets/images/lahore.jpeg";
-import multan from "../../assets/images/multan.jpeg";
+import multan from "../../assets/images/multan.jpeg";l
 import quetta from "../../assets/images/quetta.jpeg";
 import karachi from "../../assets/images/karachi.jpeg";
 const matchData = {
